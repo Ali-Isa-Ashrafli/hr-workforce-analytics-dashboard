@@ -8,6 +8,10 @@
 
 </div>
 
+## 📸 Dashboard
+
+<p align="center"><img src="images/dashboard.png" alt="Dashboard preview" width="100%"/></p>
+
 ---
 
 ## ❓ Business questions
@@ -25,8 +29,21 @@ Employee-level HR data — **department, position, education field, gender, dist
 
 - **KPI cards** — total employees, male / female count and %, expected promotions
 - **Distance to work** (near / medium / far) — donut chart
-- Headcount by **department** and **position** — column, funnel and waterfall charts
-- **Department slicer** and custom icons for a clean, management-ready layout
+- Headcount by **field of study** (funnel), **position** (column) and **expected promotions by department** (waterfall)
+- **Employee slicer** and custom icons for a clean, management-ready layout
+
+## 🔢 Headline KPIs
+
+| Employees | Male | Female | Expected promotions |
+|:-:|:-:|:-:|:-:|
+| **1,470** | **882 (60%)** | **588 (40%)** | **72** |
+
+## 💡 Key insights
+
+- Most employees have a background in **Natural Sciences (606)** and **Medicine (464)**.
+- **Sales representatives (409)** and **R&D specialists (372)** are the largest roles.
+- Of the **72** employees expected to be promoted, **47** are in **R&D** and **23** in **Sales**.
+- **70%** of employees (1,026) live **close** to the workplace; only 204 live far away.
 
 ## 🧠 Skills demonstrated
 
