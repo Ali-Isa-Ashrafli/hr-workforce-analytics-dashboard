@@ -45,6 +45,6 @@ Employee-level HR data — **department, position, education field, gender, dist
 ---
 
 <p align="center">
-Built by <a href="https://github.com/eli-isa"><b>Ali Isa Ashrafli</b></a> · Data Analyst · Baku, Azerbaijan<br/>
+Built by <a href="https://github.com/Ali-Isa-Ashrafli"><b>Ali Isa Ashrafli</b></a> · Data Analyst · Baku, Azerbaijan<br/>
 ⭐ If you find this project useful, consider giving it a star!
 </p>
